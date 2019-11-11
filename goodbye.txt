@@ -1,2 +1,6 @@
 day la noi dung file goodbye.txt
+
 kiem tra trung lap
+
+trung lap checker
+
