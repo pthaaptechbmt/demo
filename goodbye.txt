@@ -1,1 +1,2 @@
 day la noi dung file goodbye.txt
+trung lap checker
